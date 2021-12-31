@@ -1,0 +1,45 @@
+{
+  "trealet": {
+    "exec": "streamline",
+    "title": "Chào mừng bạn đến với bảo tàng văn hóa các dân tộc Việt Nam",
+    "steps": [
+      {
+        "type": 1,
+        "title": "Tìm kiếm bước tranh dưới đây để trả lời các câu hỏi?",
+        "imgId": "8874"
+      },
+      {
+        "type": 2,
+        "question": "Bước tranh trên thuộc dònh tranh nào?",
+        "options": [
+          "Tranh Sơn mài",
+          "Tranh Đông hồ",
+          "Tranh lụa",
+          "Tranh Sơn dầu"
+        ],
+        "answer": "2"
+      },
+      {
+        "type": 3,
+        "question": "Tên của bức tranh trên là gì?",
+        "answer": "Đám cưới chuột"
+      },
+      {
+        "type": 4,
+        "question": "Hãy nối tên loại bức tranh ở cột phải tương ứng với chất liệu ở cột trái.",
+        "answer": [
+          { "index": 0, "key": "Tranh Đông hồ", "value": "Giấy điệp" },
+          { "index": 1, "key": "Tranh sơn mài", "value": "Sơn then" },
+          { "index": 2, "key": "Tranh sơn dầu", "value": "Dầu" },
+          { "index": 3, "key": "Tranh lụa", "value": "Tấm vải lụa" }
+        ],
+        "options": [
+          { "key": "Tranh Đông hồ", "value": "Giấy điệp" },
+          { "key": "Tranh sơn dầu", "value": "Tấm vải lụa" },
+          { "key": "Tranh lụa", "value": "Sơn then" },
+          { "key": "Tranh sơn mài", "value": "Dầu" }
+        ]
+      }
+    ]
+  }
+}
