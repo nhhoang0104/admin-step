@@ -23,7 +23,7 @@
     </div>
     <div class="container-btn">
       <DxButton
-        :width="100"
+        :width="150"
         class="btn-export"
         text="Xuất dữ liệu"
         type="normal"

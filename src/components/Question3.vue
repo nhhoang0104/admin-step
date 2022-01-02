@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="title">
-      Dạng câu hỏi số 3: Điền câu trả lời ngắn ngọn. Quản lý cần cung cấp câu
-      hỏi liên quan đến đồ vật đã tìm kiếm được trong câu hỏi số 1.
+      Câu hỏi số 3: Điền câu trả lời ngắn ngọn. Quản lý cần cung cấp câu hỏi
+      liên quan đến đồ vật đã tìm kiếm được trong câu hỏi số 1.
     </div>
     <div>
       <div class="dx-fieldset container-field">

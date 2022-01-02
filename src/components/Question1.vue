@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="title">
-      Dạng câu hỏi số 1: Tìm kiếm đồ vật theo hình ảnh để trả lời câu hỏi phía
-      sau. Quản lý cần cung cấp hình ảnh của món đồ vật cần tìm.
+      Câu hỏi số 1: Tìm kiếm đồ vật theo hình ảnh để trả lời câu hỏi phía sau.
+      Quản lý cần cung cấp hình ảnh của món đồ vật cần tìm.
     </div>
     <div class="dx-fieldset container-field">
       <div class="dx-field">

@@ -1,6 +1,9 @@
 <template>
   <div class="container">
-    <div class="title">Dạng câu hỏi số 4:Nối .</div>
+    <div class="title">
+      Câu hỏi số 4:Nối. Quản lý cần điền các giá trí ở cột A tương ứng với cột B
+      và đưa ra câu hỏi phù hợp, để người chơi nối các giá trị cột A với cột B.
+    </div>
     <div class="dx-fieldset container-field">
       <div class="dx-field">
         <div class="dx-field-label">Câu hỏi</div>

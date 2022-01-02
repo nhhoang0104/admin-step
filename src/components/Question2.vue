@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="title">
-      Dạng câu hỏi số 2: Trả lời câu hỏi dạng A, B, C, D. Quản lý cần cung cấp
-      câu hỏi liên quan đến đồ vật đã tìm kiếm được trong câu hỏi số 1.
+      Câu hỏi số 2: Trả lời câu hỏi dạng A, B, C, D. Quản lý cần cung cấp câu
+      hỏi liên quan đến đồ vật đã tìm kiếm được trong câu hỏi số 1.
     </div>
     <div>
       <div class="dx-fieldset container-field">
@@ -73,7 +73,9 @@
     </div>
     <div class="dx-fieldset container-field-1">
       <div class="dx-field">
-        <div class="dx-field-label">Đáp án của câu hỏi(A, B, C, D):</div>
+        <div class="dx-field-label">
+          Đáp án của câu hỏi(A - 1, B - 2, C - 3, D - 4):
+        </div>
         <div class="dx-field-value">
           <DxTextBox
             :width="100"
@@ -130,7 +132,7 @@ export default {
   .dx-field-value {
     width: 40% !important;
   }
-  max-width: 400px;
+  max-width: 600px;
 }
 
 .container {
